@@ -1,1 +1,2 @@
 # Library-Management-System-
+This readme provides a basic library management system using a Microsoft SQL Server database. It includes tables for branches, books, library employees, borrowers, and loans. The system allows for tracking book details, issuing loans, and managing employees and borrowers. Sample data is provided, and there are views and indexes for efficient data retrieval. It is a simplified example and may require additional features and security measures in a real-world implementation.
